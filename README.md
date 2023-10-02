@@ -1,6 +1,6 @@
 # Eatree - A Timberman Remake
 
-Eatree is an arcade-style game in which the player controls the bear named Oak. In the 
+Eatree is an arcade-style game in which the player controls the bear named Oak. It is a remake from the game [Timberman](https://store.steampowered.com/app/398710/Timberman/). In the 
 center there’s a large tree that can have branches on it. The player is tasked with navigating 
 Oak to eat the woods from the tree, while at the same time must evade the branches that 
 are coming from above.
